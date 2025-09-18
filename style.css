@@ -4,6 +4,7 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+  background-color: #d1f5f8;
 }
 
 header {
@@ -21,7 +22,6 @@ main {
   justify-content: center; 
   align-items: center; 
   gap: 20px; 
-  background-color: #d1f5f8;
 }
 
 
