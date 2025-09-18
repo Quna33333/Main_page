@@ -1,7 +1,6 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #d1f5f8;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,6 +21,7 @@ main {
   justify-content: center; 
   align-items: center; 
   gap: 20px; 
+  background-color: #d1f5f8;
 }
 
 
