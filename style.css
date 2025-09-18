@@ -1,4 +1,7 @@
 body{
-  background-color:blue;
-  display:flex;
+  background-color:RGB(209,245,248);
 }
+button{
+  position:center;
+}
+
